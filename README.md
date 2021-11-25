@@ -1,1 +1,1 @@
-Due to time constraints i copied ```validateEmail``` ***function from stackoverflow.com*** 
+Due to time constraints, I copied ```validateEmail``` function from ***stackoverflow.com*** 
